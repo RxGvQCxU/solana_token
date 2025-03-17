@@ -1,1 +1,2 @@
-# Token
+# Solana Token
+## BMW Fan Token
