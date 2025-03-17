@@ -3,17 +3,26 @@
 
 # Solana Token
 ## BMW Fan Token
-| Spalte 1 | Spalte 2 |
 |----------|----------|
 |Token Address:|[BMWAfBN1vpX6rDzi5zYpoeRh2so1by3MQudUtH1LkUmK](https://explorer.solana.com/address/BMWAfBN1vpX6rDzi5zYpoeRh2so1by3MQudUtH1LkUmK?cluster=devnet)|
-|Account:|A85yt72bXaTQ8AFTN6NgR2MagMKu1gpRowr9r97DK2py|
+|Account:||
 ## Celestia
-[x](https://solscan.io/token/xxx?cluster=devnet)
+|----------|----------|
+|Token Address:||
+|Account:||
 ## Celestial
-[x](https://solscan.io/token/xxx?cluster=devnet)
+|----------|----------|
+|Token Address:||
+|Account:||
 ## Centenary
-[x](https://solscan.io/token/xxx?cluster=devnet)
+|----------|----------|
+|Token Address:||
+|Account:||
 ## Master Chief
-[x](https://solscan.io/token/xxx?cluster=devnet)
+|----------|----------|
+|Token Address:||
+|Account:||
 ## Radiance
-[x](https://solscan.io/token/xxx?cluster=devnet)
+|----------|----------|
+|Token Address:||
+|Account:||
