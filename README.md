@@ -1,5 +1,5 @@
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
+> [!WARNING]
+> Die Token wurden noch nicht veröffentlicht.
 
 # Solana Token
 ## BMW Fan Token
