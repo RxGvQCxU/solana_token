@@ -1,1 +1,1 @@
-# solana_token
+# Token

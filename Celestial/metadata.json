@@ -1,0 +1,9 @@
+{
+	"name": "Celestial Token",
+	"symbol": "CEL",
+	"seller_fee_basis_points": 150,
+	"fee_recipient": "DAFL2F1P2CRjJPLxrPvNnWijSG2oVtSNFiLH41mmoHjF",
+	"seller_fee_collection_address": "DAFL2F1P2CRjJPLxrPvNnWijSG2oVtSNFiLH41mmoHjF",
+	"description": "Immerse yourself in the galactic future with Centenary-the coin that races like a supernova through the endless expanse of the crypto universe!",  
+	"image": "https://raw.githubusercontent.com/RxGvQCxU/token/refs/heads/main/Celestial/logo.png"
+}
