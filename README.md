@@ -1,4 +1,4 @@
-> [!Warnung]
+> [!WARNING]
 > Die Token wurden noch nicht veröffentlicht.
 
 # Solana Token
