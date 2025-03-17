@@ -8,7 +8,14 @@
 | Account:| A85yt72bXaTQ8AFTN6NgR2MagMKu1gpRowr9r97DK2py|
 
 ## Celestia
+| Token Address:| [x](https://explorer.solana.com/address/BMWAfBN1vpX6rDzi5zYpoeRh2so1by3MQudUtH1LkUmK?cluster=devnet)|
+|----------|----------|
+| Account:| x|
+
 ## Celestial
+
 ## Centenary
+
 ## Master Chief
+
 ## Radiance
